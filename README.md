@@ -14,7 +14,7 @@ Minimalistic.
 
 Responsive.
 
-<img width="612" alt="Screenshot 2025-04-09 at 11 28 18 AM" src="https://github.com/user-attachments/assets/03432ecd-33e3-4e0e-8b5c-dacb535ff4c2" />
+<img width="612" alt="Screenshot 2025-04-09 at 11 28 43 AM" src="https://github.com/user-attachments/assets/c3dc572d-829c-4354-96a3-38a6a6745481" />
 
 Compatible.
 
