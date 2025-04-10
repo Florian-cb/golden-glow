@@ -1,8 +1,6 @@
 # golden glow
- 
-Landing page idea for made-up product "Golden Glow". Theme is spray tan and body products. Site is responsive and compatible with all screen sizes.
 
-Built in less than two hours, this project showcases my commitment to high professional standards in front-end web development, emphasizing both efficiency and compatibility. I believe that productivity and time efficiency are crucial in the technology field. By achieving the same high-quality results and aesthetic appeal with less code and reduced development time, I help drive productivity and deliver long-term cost savings for the company.
+Landing page idea concept for a spray tan and body products line named "Golden Glow." The objective was to develop a minimalistic, responsive front-end template that functions well on all devices. The design emphasizes simplicity and clear layout, compatibility across different screen sizes. Below are screenshots that illustrate the layout on various devices.
 
 --- Code in Action ---
 
